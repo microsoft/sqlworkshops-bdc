@@ -29,7 +29,7 @@ You'll start by understanding the concepts of big data analytics, and you'll get
 
 This README.MD file explains how the workshop is laid out, what you will learn, and the technologies you will use in this solution.
 
-You can view all of the [source files for this workshop on this GitHub site, along with other workshops as well. Open this link in a new tab to find out more.](https://github.com/Microsoft/sqlworkshops-bdc/tree/master/sqlserver2019bigdataclusters)
+You can view all of the [source files for this workshop on this GitHub site, along with other workshops as well. Open this link in a new tab to find out more.](https://aka.ms/sqlworkshops)
 
 <p style="border-bottom: 1px solid lightgrey;"></p>
 
