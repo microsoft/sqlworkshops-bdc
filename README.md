@@ -29,7 +29,7 @@ You'll start by understanding the concepts of big data analytics, and you'll get
 
 This README.MD file explains how the workshop is laid out, what you will learn, and the technologies you will use in this solution.
 
-You can view all of the [source files for this workshop on this GitHub site, along with other workshops as well. Open this link in a new tab to find out more.](https://github.com/Microsoft/sqlworkshops/tree/master/sqlserver2019bigdataclusters)
+You can view all of the [source files for this workshop on this GitHub site, along with other workshops as well. Open this link in a new tab to find out more.](https://github.com/Microsoft/sqlworkshops-bdc/tree/master/sqlserver2019bigdataclusters)
 
 <p style="border-bottom: 1px solid lightgrey;"></p>
 
@@ -97,7 +97,7 @@ The solution includes the following technologies - although you are not limited 
 <p style="background:#ccc; color:#000;padding: 25px 25px 25px 25px;">
 
 <b>Condensed Lab:</b>
-If you have already completed the pre-requisites for this course and are familiar with the technologies listed above, <a href="https://github.com/microsoft/sqlworkshops/tree/master/sqlserver2019bigdataclusters/SQL2019BDC/notebooks" target="_blank">you can jump to a Jupyter Notebooks-based tutorial located here</a>. Load these with Azure Data Studio, starting with <b>bdc_tutorial_00.ipynb</b>.
+If you have already completed the pre-requisites for this course and are familiar with the technologies listed above, <a href="https://github.com/Microsoft/sqlworkshops-bdc/tree/master/sqlserver2019bigdataclusters/SQL2019BDC/notebooks" target="_blank">you can jump to a Jupyter Notebooks-based tutorial located here</a>. Load these with Azure Data Studio, starting with <b>bdc_tutorial_00.ipynb</b>.
 </p>
 
 <p style="border-bottom: 1px solid lightgrey;"></p>
