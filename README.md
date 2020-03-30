@@ -27,7 +27,7 @@ The focus of this workshop is to understand how to deploy an on-premises or loca
 
 You'll start by understanding the concepts of big data analytics, and you'll get an overview of the technologies (such as containers, container orchestration, Spark and HDFS, machine learning, and other technologies) that you will use throughout the workshop. Next, you'll understand the architecture of a BDC. You'll learn how to create external tables over other data sources to unify your data, and how to use Spark to run big queries over your data in HDFS or do data preparation. You'll review a complete solution for an end-to-end scenario, with a focus on how to extrapolate what you have learned to create other solutions for your organization.
 
-This README.MD file explains how the workshop is laid out, what you will learn, and the technologies you will use in this solution.
+This [github README.MD file](https://lab.github.com/githubtraining/introduction-to-github) explains how the workshop is laid out, what you will learn, and the technologies you will use in this solution. To download this Lab to your local computer, click the **Clone or Download** button you see at the top right side of this page. [More about that process is here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
 
 You can view all of the [courses and other workshops our team has created at this link - open in a new tab to find out more.](https://microsoft.github.io/sqlworkshops/)
 
