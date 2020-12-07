@@ -140,7 +140,7 @@ Using the following steps, you will create a Resource Group in Azure that will h
 
 <p><b>Steps</b></p>
 
-<p><img style="float: left; margin: 0px 15px 15px 0px;" src="../graphics/checkbox.png"> <a href="https://github.com/Microsoft/sqlworkshops-bdc/blob/master/sqlserver2019bigdataclusters/SQL2019BDC/00%20-%20Prerequisites.md" target="_blank">  Ensure that you have completed all prerequisites</a>.</p>
+<p><img style="float: left; margin: 0px 15px 15px 0px;" src="../graphics/checkbox.png"> <a href="https://github.com/microsoft/sqlworkshops-bdc/blob/master/SQL2019BDC/00%20-%20Prerequisites.md" target="_blank">  Ensure that you have completed all prerequisites</a>.</p>
 
 <p><img style="float: left; margin: 0px 15px 15px 0px;" src="../graphics/checkbox.png"> <a href="https://docs.microsoft.com/en-us/sql/big-data-cluster/deploy-big-data-tools?view=sqlallproducts-allversions" target="_blank"> Read the following article to install the big data cluster Tools, ensuring that you carefully follow each step</a>. Note that if you followed the pre-requisites properly, you will already have <i>Python</i>, <i>kubectl</i>, and <i>Azure Data Studio</i> installed, so those may be skipped. Follow all other instructions.</p>
 
